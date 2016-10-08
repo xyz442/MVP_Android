@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MVP Example</string>
+    <string name="action_settings">设置</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="log_in">登录</string>
+    <string name="title_activity_main">MVP Example</string>
+    <string name="username_error">用户名不能为空</string>
+    <string name="password_error">密码不能为空</string>
+
+</resources>
